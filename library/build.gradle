@@ -9,7 +9,7 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 
-group = 'com.github.jitpack'
+group = 'com.github.hejiafeng'
 version = '1.0'
 
 android {
