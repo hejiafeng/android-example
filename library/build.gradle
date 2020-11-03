@@ -32,11 +32,6 @@ android {
     lintOptions {
         abortOnError false
     }
-    sourceSets {
-        main.java.srcDirs += 'src/main/kotlin'
-        androidTest.java.srcDirs += 'src/androidTest/kotlin'
-        androidTest.resources.srcDirs += 'src/androidTest/res'
-    }
 }
 
 dependencies {
